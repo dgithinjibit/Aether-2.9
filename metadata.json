@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Aether IDE - AI Augmented Sandbox _ RECON_Mobile-Friendly",
+  "description": "A high-fidelity, browser-based coding playground with an integrated Gemini AI Co-Pilot for code generation, debugging, and live previews. - \u0027Andre Olivier\u0027",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
