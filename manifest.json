@@ -1,22 +1,19 @@
-
 {
-  "name": "Aether IDE",
+  "name": "Aether Mobile Native",
   "short_name": "Aether",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#111111",
+  "background_color": "#18181b",
   "theme_color": "#18181b",
-  "description": "AI-Augmented Mobile-First IDE",
-  "orientation": "any",
+  "orientation": "portrait",
+  "permissions": [
+    "audioCapture",
+    "videoCapture"
+  ],
   "icons": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
+      "src": "/vite.svg",
       "sizes": "192x192",
-      "type": "image/svg+xml"
-    },
-    {
-      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
-      "sizes": "512x512",
       "type": "image/svg+xml"
     }
   ]
